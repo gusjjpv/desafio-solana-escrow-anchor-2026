@@ -10,7 +10,11 @@ Escrow program (Opcao A) em Anchor para dois participantes depositarem tokens SP
 
 - Program ID: `4PVBfd185KQ7UV3y1h2jR5ydAP9LeB317PNn8aS6gccT`
 
-Status atual: chave sincronizada e pronta para deploy, mas o deploy em devnet depende de saldo na wallet deployer.
+Status atual: deployado com sucesso na devnet.
+
+Transacao de deploy:
+
+- Signature: `52rCsep6vQ2nppckTxB4FcShEu8dKC6gM5vohEtoDfwAW75vgfBfMsZXGjfsyAjegwE1GQ9Vt3j4LktzfkSR1RyP`
 
 Wallet deployer atual:
 
