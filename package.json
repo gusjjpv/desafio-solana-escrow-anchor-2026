@@ -1,0 +1,23 @@
+{
+  "name": "anchor-escrow-bootcamp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "lint": "prettier \"**/*.{js,ts,json,md}\" --check",
+    "lint:fix": "prettier \"**/*.{js,ts,json,md}\" --write",
+    "test": "ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts",
+    "anchor:test": "anchor test"
+  },
+  "devDependencies": {
+    "@coral-xyz/anchor": "^0.31.1",
+    "@solana/spl-token": "^0.4.14",
+    "@types/chai": "^4.3.20",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^22.15.29",
+    "chai": "^4.5.0",
+    "mocha": "^10.8.2",
+    "prettier": "^3.5.3",
+    "ts-mocha": "^10.0.0",
+    "typescript": "^5.8.3"
+  }
+}

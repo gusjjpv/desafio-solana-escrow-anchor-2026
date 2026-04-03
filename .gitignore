@@ -1,0 +1,23 @@
+# External Claude skill submodules
+.claude/skills/ext/
+CLAUDE.local.md
+.claude/
+CLAUDE.md
+
+# Anchor / Solana
+.anchor/
+target/
+test-ledger/
+*.log
+
+# Rust
+**/*.rs.bk
+
+# Node
+node_modules/
+coverage/
+.turbo/
+
+# Environment and editor
+.env
+.DS_Store

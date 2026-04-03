@@ -1,0 +1,21 @@
+[toolchain]
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.devnet]
+escrow = "4PVBfd185KQ7UV3y1h2jR5ydAP9LeB317PNn8aS6gccT"
+
+[programs.localnet]
+escrow = "4PVBfd185KQ7UV3y1h2jR5ydAP9LeB317PNn8aS6gccT"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "npm run test"
