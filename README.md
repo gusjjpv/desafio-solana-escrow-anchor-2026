@@ -2,11 +2,19 @@
 
 Escrow program (Opcao A) em Anchor para dois participantes depositarem tokens SPL e liberar os fundos somente depois que os dois confirmarem.
 
+## Repositorio publico
+
+- https://github.com/gusjjpv/desafio-solana-escrow-anchor-2026
+
 ## Program ID (Devnet)
 
 - Program ID: `4PVBfd185KQ7UV3y1h2jR5ydAP9LeB317PNn8aS6gccT`
 
 Status atual: chave sincronizada e pronta para deploy, mas o deploy em devnet depende de saldo na wallet deployer.
+
+Wallet deployer atual:
+
+- DGfKSzB3uuqpBqkuAVcogH5ZH587QxZ1jf9fawyJYBdC
 
 ## O que o programa faz
 
