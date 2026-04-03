@@ -12,6 +12,7 @@
     "@coral-xyz/anchor": "^0.31.1",
     "@solana/spl-token": "^0.4.14",
     "@types/chai": "^4.3.20",
+    "@types/bn.js": "^5.2.0",
     "@types/mocha": "^10.0.10",
     "@types/node": "^22.15.29",
     "chai": "^4.5.0",
